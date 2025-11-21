@@ -12,6 +12,6 @@ jobs:
       - name: Extraction des fichiers
         uses: actions/checkout@v5
       - name: Exécution de grammalint
-        run: python -m grammalint -i recettes/**/*.md --skip-fronmatter-keys image
+        run: python -m grammalint -i recettes/**/*.md --skip-frontmatter-keys image
 	
 
