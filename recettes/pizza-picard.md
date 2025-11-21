@@ -15,7 +15,7 @@ tags:
   - four
   - italie
   - surgele
-image: picard.jpg
+image: ../images/pizza-picard.png
 ingredients:
   - "une pizza surgele"
   - "1 four"
